@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "155144230083",
+    "firebase_url": "https://shopapps-6ed4a-default-rtdb.firebaseio.com",
+    "project_id": "shopapps-6ed4a",
+    "storage_bucket": "shopapps-6ed4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155144230083:android:f58add239da7c3b9cfbe76",
+        "android_client_info": {
+          "package_name": "com.example.chatflutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155144230083-159kc9iaun4j59qnk728jues7d0ikfmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyS4udpTBuwKIeH-Qj3Gti4eyQwN_qabc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155144230083-159kc9iaun4j59qnk728jues7d0ikfmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
